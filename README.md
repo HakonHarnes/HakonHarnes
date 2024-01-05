@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="http://127.0.0.1:8080/name.svg" alt="Håkon Harnes" />
+<img src="https://github.com/HakonHarnes/HakonHarnes/blob/main/name.svg" alt="Håkon Harnes" />
 
 [![](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github)](https://github.com/hakonharnes)
 [![](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hakon-harnes/)
