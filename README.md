@@ -1,4 +1,9 @@
-👋 Hi, I’m Håkon Harnes <br />
-👀 I’m interested in security <br />
-🌱 I’m currently learning WebAssembly<br />
-📫 Reach me at hakon@harnes.dev <br />
+<div align="center">
+
+<img src="http://127.0.0.1:8080/name.svg" alt="Håkon Harnes" />
+
+[![](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github)](https://github.com/hakonharnes)
+[![](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hakon-harnes/)
+[![](https://img.shields.io/badge/-email-orange?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:hakon@harnes.co)
+
+</div>
