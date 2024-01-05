@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://github.com/HakonHarnes/HakonHarnes/assets/89907156/05ee7a75-cef6-4f7b-9ab2-b43c8778be3a" alt="Håkon Harnes">
+   <img src="https://github.com/HakonHarnes/HakonHarnes/assets/89907156/eda12edd-0756-4bb0-bd50-879fd7a5fc42" alt="Håkon Harnes">
 
 [![](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hakon-harnes/)
 [![](https://img.shields.io/badge/-website-38BDF8?style=for-the-badge&logo=hypothesis&logoColor=white)](https://harnes.co/)
