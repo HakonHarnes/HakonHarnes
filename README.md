@@ -1,10 +1,6 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@700;800&display=swap" rel="stylesheet">
-
 <div align="center">
-  <div style="font-family: inter; font-weight: 700; font-size: 3rem; color: white;">
-    Håkon Harnes<span style="color: #38BDF8; font-weight: 800;">.</span>
+  <div>
+    <img src="https://github.com/HakonHarnes/HakonHarnes/blob/main/name.svg" alt="Håkon Harnes" />
   </div>
 
 [![](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github)](https://github.com/hakonharnes)
